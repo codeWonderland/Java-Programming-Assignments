@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Card Dealer/src/main/java"/>
+	<classpathentry kind="src" path="Conversation Bot/src/main/java"/>
+	<classpathentry kind="src" path="flashcardgame/src/main/java"/>
+	<classpathentry kind="src" path="lab3/src/main/java"/>
+	<classpathentry kind="src" path="lab4/src/main/java"/>
+	<classpathentry kind="src" path="lab5/src/main/java"/>
+	<classpathentry kind="src" path="lab5/src/test/java"/>
+	<classpathentry kind="src" path="lab6/src/main/java"/>
+	<classpathentry kind="src" path="lab6/src/test/java"/>
+	<classpathentry kind="src" path="lab7/src/main/java"/>
+	<classpathentry kind="src" path="lab7/src/test/java"/>
+	<classpathentry kind="src" path="Lecture2Demo/src"/>
+	<classpathentry kind="src" path="Lecture3Demo/src"/>
+	<classpathentry kind="src" path="Lecture5Demo/src"/>
+	<classpathentry kind="src" path="Lecture6Demo/src"/>
+	<classpathentry kind="src" path="Loop Practice/src"/>
+	<classpathentry kind="src" path="mysticHallway/src/main/java"/>
+	<classpathentry kind="src" path="mysticHallway/src/test/java"/>
+	<classpathentry kind="src" path="MysticHallway2/src"/>
+	<classpathentry kind="src" path="Phrase-O-Matic/src"/>
+	<classpathentry kind="src" path="Plain Java Files"/>
+	<classpathentry kind="src" path="robocodeproject/src/main/java"/>
+	<classpathentry kind="src" path="Story Generator/src/main/java"/>
+	<classpathentry kind="src" path="storygeneratorsequel/src/main/java"/>
+	<classpathentry kind="lib" path="lab5/junit-4.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Card Dealer/target/classes"/>
+</classpath>
